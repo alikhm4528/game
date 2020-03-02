@@ -1,2 +1,2 @@
 # game
-it is a fun game in c++ used graphic.h for graphic
+it is a fun game in c++ used graphics.h for graphics
